@@ -1,2 +1,3 @@
 # todo-list
-A Todo-list with amazing features and beautiful UI.
+    A Todo-list with amazing features and beautiful UI.
+    Created by Yash.
